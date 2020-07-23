@@ -1,0 +1,14 @@
+{
+  "name": "monitorspread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/monitorspread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-binance-api": "^0.11.11"
+  }
+}
